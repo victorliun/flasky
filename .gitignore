@@ -1,0 +1,21 @@
+#ignore those files and directories
+
+#ignore those files and directories
+
+activate
+*.pyc
+!.travis.yml
+*.swp
+*.lock
+*.log
+*.pid
+cms/django
+*.DS_Store
+*.svn
+.*
+*.json
+*.xml
+/*env*/
+#*#
+*~
+project/static/admin
